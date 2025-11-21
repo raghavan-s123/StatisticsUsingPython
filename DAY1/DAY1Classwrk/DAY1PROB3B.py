@@ -15,3 +15,4 @@ repl = len(list(itertools.combinations_with_replacement(flav_combi, n)))
 print(f"Total combinations without replacement: {out_repl}")
 print(f"Total combinations with replacement: {repl}")
 
+
